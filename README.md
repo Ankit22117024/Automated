@@ -39,8 +39,6 @@ LangChain – Text chunking and processing pipeline
 🛠️ Running the App Locally
 Clone the repository:
 
-
-git clone https://github.com/arpit26552/metadata-generation.git
 cd metadata-generation
 Install dependencies:
 
